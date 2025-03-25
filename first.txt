@@ -1,1 +1,2 @@
 git difference from logical areas
+working to staging area
