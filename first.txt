@@ -1,2 +1,4 @@
 git difference from logical areas
 working to staging area
+staging to committeed
+working to committed
