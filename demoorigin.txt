@@ -1,0 +1,3 @@
+how to delete origin
+how to add new origin
+how to rename origin
